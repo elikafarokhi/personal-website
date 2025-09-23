@@ -4,8 +4,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 ## 🚀 Features
 
-- **Interactive Job Experience Timeline**: Showcases professional experience with expandable details
-- **Project Showcase**: Displays personal and professional projects with descriptions and links
+- **Project Showcase**: Displays personal and professional projects with descriptions 
 - **Modern UI/UX**: Built with Material-UI and styled-components for a polished look
 - **Responsive Design**: Fully responsive across all device sizes
 - **Contact Form**: Integrated with EmailJS for direct communication
