@@ -35,7 +35,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 1. Clone the repository
 ```bash
-git clone https://github.com/kiyon21/Personal-Portfolio.git
+git clone https://github.com/elikafarokhi/Personal-Portfolio.git
 ```
 
 2. Install dependencies
